@@ -1,0 +1,8 @@
+mai. 24, 2022 7:42:58 PM paclog.Principal main
+WARNING: Log de Aviso
+mai. 24, 2022 7:42:58 PM paclog.Principal main
+SEVERE: Log Severo
+mai. 24, 2022 7:43:00 PM paclog.Principal main
+WARNING: Log de Aviso
+mai. 24, 2022 7:43:00 PM paclog.Principal main
+SEVERE: Log Severo
